@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-dotenv
+tqdm
+opencv-python
+# TODO: add required packages
